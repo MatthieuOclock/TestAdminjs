@@ -1,5 +1,8 @@
 {
   "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@adminjs/express": "^6.1.0",
     "@adminjs/mikroorm": "^4.0.0",
